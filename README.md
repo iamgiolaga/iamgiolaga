@@ -25,4 +25,4 @@ Here are some ideas to get you started:
  </a>
  </p>
 
-...plus private repositories I am working on 😏
+...plus private repositories that I am working on 😏
