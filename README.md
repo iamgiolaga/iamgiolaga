@@ -26,8 +26,3 @@ Here are some ideas to get you started:
  </p>
 
 ...plus private repositories that I am working on 😏
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/iamgiolaga/count.svg" />
-</p>
